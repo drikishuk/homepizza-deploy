@@ -1,0 +1,1 @@
+var e={slicesPerPizza:8,slicesPerPerson:{light:2,hungry:4},defaultSize:`14"`,minHeadcount:6,maxHeadcount:150,leadTimeHours:24,leadTimeCopy:`Please let us know at least a day in advance.`};export{e as t};

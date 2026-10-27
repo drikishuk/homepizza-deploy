@@ -1,0 +1,1 @@
+import{D as e,J as t,T as n}from"./_plugin-vue_export-helper-CEsMCj_d.js";function r(){let r=t(!1),i,a=e=>r.value=e.matches;return e(()=>{i=window.matchMedia(`(prefers-reduced-motion: reduce)`),r.value=i.matches,i.addEventListener(`change`,a)}),n(()=>i?.removeEventListener(`change`,a)),r}export{r as t};

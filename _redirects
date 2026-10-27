@@ -1,0 +1,7 @@
+# Old Wix URLs -> new routes (Netlify / Cloudflare Pages format)
+/order            /locations                 301
+/about-3          /locations/gerrards-cross  301
+/about-3-1        /locations/beaconsfield    301
+/about-3-2        /locations/chesham         301
+/about-3-3        /locations/canary-wharf    301
+/nutritional      /nutrition                 301
