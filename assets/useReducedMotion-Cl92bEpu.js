@@ -1,0 +1,1 @@
+import{E as e,O as t,Y as n}from"./_plugin-vue_export-helper-CEaRLUhi.js";function r(){let r=n(!1),i,a=e=>r.value=e.matches;return t(()=>{i=window.matchMedia(`(prefers-reduced-motion: reduce)`),r.value=i.matches,i.addEventListener(`change`,a)}),e(()=>i?.removeEventListener(`change`,a)),r}export{r as t};
