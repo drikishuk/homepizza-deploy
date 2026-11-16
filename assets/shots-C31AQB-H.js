@@ -1,1 +1,0 @@
-var e=[`spanaki`,`gringo`];function t(t){return!e.includes(t)}export{t};
